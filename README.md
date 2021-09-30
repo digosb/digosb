@@ -1,7 +1,7 @@
 ### Olá sou Rodrigo Barbosa 😁
 
 - 🔭 Hoje eu trabalho no Data center 
-- ✍ Estudo Programação JS, HTML e CSS
+- ✍ Estudo Programação Node JS, JS, HTML e CSS
 - 😉 E-mail: rodrigosb1190@gmail.com
 
 <div align="center">

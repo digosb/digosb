@@ -1,6 +1,6 @@
 ### Olá sou Rodrigo Barbosa 😁
 
-- ✍ Estudo data science, machine learn e redes neurais
+- ✍ Estudando Full Stack
 - 😉 E-mail: rodrigosb1190@gmail.com
 
 <div align="center">

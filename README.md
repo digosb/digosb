@@ -1,43 +1,114 @@
-<h1 align="center">Rodrigo Barbosa 👋</h1>
+
+<h1 align="center">Olá! 👋 Rodrigo Barbosa</h1>
 
 <h3 align="center">
-Desenvolvedor Python | Power BI | Automação | Desenvolvimento de Software
+🚀 Desenvolvedor Python • Power BI • Automação • Desenvolvimento de Software
 </h3>
 
 <p align="center">
-Construindo soluções que automatizam processos, transformam dados em decisões e ajudam empresas a crescer.
+Transformando ideias em soluções inteligentes através da tecnologia.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=650&lines=Desenvolvedor+Python;Especialista+em+Power+BI;Automação+de+Processos;Criando+Softwares+para+Empresas;Sempre+aprendendo+algo+novo."/>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
-- 💻 Desenvolvedor focado em Python, Power BI e Automação
-- 📊 Apaixonado por análise de dados e Business Intelligence
-- 🚀 Em constante evolução no desenvolvimento de software
-- 🎯 Objetivo: atuar 100% com desenvolvimento de software e projetos remotos
+Sou um desenvolvedor apaixonado por tecnologia e inovação.
+
+Meu objetivo é criar softwares, dashboards e automações que resolvam problemas reais das empresas.
+
+Atualmente concentro meus estudos em:
+
+- 🐍 Python
+- 📊 Power BI
+- ⚡ Automação de Processos
+- 🗄️ Banco de Dados
+- 🌐 APIs
+- 🤖 Inteligência Artificial
+
+Meu foco é construir soluções modernas, intuitivas e de alto impacto para pequenas e médias empresas.
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Stack Principal
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-<img src="https://skillicons.dev/icons?i=sqlite" height="45"/>
-<img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
-<img src="https://skillicons.dev/icons?i=docker" height="45"/>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=sqlite" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://skillicons.dev/icons?i=docker" />
 
 </p>
 
 ---
 
-## 📚 Atualmente estudando
+# 🎯 Especialidades
+
+✔ Desenvolvimento de Sistemas
+
+✔ Dashboards em Power BI
+
+✔ Automação com Python
+
+✔ Integração de Dados
+
+✔ Desenvolvimento Backend
+
+✔ Business Intelligence
+
+---
+
+# 📂 Projetos em Desenvolvimento
+
+🚗 SmartFleet AI
+
+📊 Dashboard Executivo
+
+📈 Dashboard Comercial
+
+📦 Sistema de Controle de Estoque
+
+📋 Sistema de Ordem de Serviço
+
+🤖 Automação de Relatórios
+
+👥 Sistema de Gestão de Clientes
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=digosb&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digosb&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=digosb&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📚 Atualmente estudando
 
 - Python Avançado
 - Power BI
@@ -46,64 +117,40 @@ Construindo soluções que automatizam processos, transformam dados em decisões
 - PostgreSQL
 - Docker
 - Inteligência Artificial
-- Desenvolvimento Web
+- Arquitetura de Software
 
 ---
 
-## 📂 Projetos
+# 🌎 Meu objetivo
 
-🚗 SmartFleet AI
+Quero construir uma carreira desenvolvendo soluções inteligentes para empresas através de software, análise de dados e automação.
 
-📊 Dashboard Financeiro
+Estou construindo um portfólio focado em:
 
-📈 Dashboard Comercial
+📊 Power BI
 
-📦 Sistema de Controle de Estoque
+🐍 Python
 
-📋 Sistema de Ordem de Serviço
+⚡ Automação
 
-🤖 Automação de Processos
+💻 Desenvolvimento de Software
 
----
-
-## 📈 Estatísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=digosb&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digosb&layout=compact&theme=tokyonight"/>
-
-</p>
+🤖 Inteligência Artificial
 
 ---
 
-## 🎯 Objetivos para 2026
+# 📫 Vamos nos conectar
 
-✅ Construir um portfólio profissional
+💼 LinkedIn (Em breve)
 
-✅ Conquistar clientes no Workana e 99Freelas
-
-✅ Desenvolver soluções para empresas
-
-✅ Especializar-me em Power BI
-
-✅ Especializar-me em Python
-
-✅ Trabalhar remotamente
-
----
-
-## 📫 Contato
-
-💼 LinkedIn: Em breve
-
-📧 Email: Em breve
+📧 Email profissional (Em breve)
 
 ---
 
 <p align="center">
 
 ⭐ Obrigado por visitar meu perfil!
+
+Se gostou dos meus projetos, deixe uma ⭐ nos repositórios.
 
 </p>

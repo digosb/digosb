@@ -9,7 +9,9 @@ Me chamo Rodrigo Soares Barbosa, tenho 35 anos e sou natural de São Paulo. Conc
         <img 
             alt="Linkdin subscribers" 
             title="Segue lá" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          "
         />
     </a>
 </p>

@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá! 👋 Rodrigo Barbosa</h1>
+<h1 align="center">👋 Rodrigo Barbosa</h1>
 
 <h3 align="center">
 🚀 Desenvolvedor Python • Power BI • Automação • Desenvolvimento de Software
@@ -138,12 +138,14 @@ Estou construindo um portfólio focado em:
 🤖 Inteligência Artificial
 
 ---
+## 🌐 Conecte-se comigo
 
-# 📫 Vamos nos conectar
+<p align="left">
+  <a href="SEU_LINK_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-💼 LinkedIn (Em breve)
-
-📧 Email profissional (Em breve)
 
 ---
 

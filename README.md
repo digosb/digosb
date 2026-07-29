@@ -1,158 +1,113 @@
+# 👋 Olá! Eu sou Rodrigo Barbosa
 
-<h1 align="center">👋 Rodrigo Barbosa</h1>
+### 💻 Desenvolvedor Python | 📊 Power BI | ⚡ Automação | 🚀 Desenvolvimento de Software
 
-<h3 align="center">
-🚀 Desenvolvedor Python • Power BI • Automação • Desenvolvimento de Software
-</h3>
+Sou desenvolvedor apaixonado por tecnologia e por criar soluções que ajudam empresas a automatizar processos, analisar dados e desenvolver sistemas modernos.
 
-<p align="center">
-Transformando ideias em soluções inteligentes através da tecnologia.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=650&lines=Desenvolvedor+Python;Especialista+em+Power+BI;Automação+de+Processos;Criando+Softwares+para+Empresas;Sempre+aprendendo+algo+novo."/>
-</p>
+🎯 Meu objetivo é atuar como Desenvolvedor de Software, especializado em **Python**, **Power BI** e **Automação de Processos**, trabalhando em projetos que gerem impacto real para empresas.
 
 ---
 
-# 👨‍💻 Sobre mim
+## 🚀 Tecnologias que utilizo
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação.
+<div style="display: inline_block"><br>
 
-Meu objetivo é criar softwares, dashboards e automações que resolvam problemas reais das empresas.
+<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-Atualmente concentro meus estudos em:
+<img align="center" alt="PowerBI" height="40" width="50" src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons@main/SVG/Power-BI.svg">
 
-- 🐍 Python
-- 📊 Power BI
-- ⚡ Automação de Processos
-- 🗄️ Banco de Dados
-- 🌐 APIs
-- 🤖 Inteligência Artificial
+<img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-Meu foco é construir soluções modernas, intuitivas e de alto impacto para pequenas e médias empresas.
+<img align="center" alt="Github" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
----
+<img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
-# 🚀 Stack Principal
+<img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 
-<p align="center">
+<img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=sqlite" />
-<img src="https://skillicons.dev/icons?i=fastapi" />
-<img src="https://skillicons.dev/icons?i=docker" />
+<img align="center" alt="SQLite" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
 
-</p>
+<img align="center" alt="FastAPI" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+
+<img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
+</div>
 
 ---
 
-# 🎯 Especialidades
+## 📈 GitHub Stats
 
-✔ Desenvolvimento de Sistemas
+<div align="center">
 
-✔ Dashboards em Power BI
+<a href="https://github.com/digosb">
 
-✔ Automação com Python
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=digosb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-✔ Integração de Dados
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digosb&layout=compact&langs_count=8&theme=tokyonight"/>
 
-✔ Desenvolvimento Backend
+</a>
+
+</div>
+
+---
+
+## 🚀 Atualmente desenvolvendo
+
+- 🚗 SmartFleet AI
+- 📊 Dashboards em Power BI
+- 🤖 Automações em Python
+- 💻 Sistemas para pequenas empresas
+- 🌐 APIs REST
+
+---
+
+## 🎯 Objetivos
+
+✔ Desenvolvimento de Software
 
 ✔ Business Intelligence
 
----
+✔ Automação de Processos
 
-# 📂 Projetos em Desenvolvimento
+✔ Python
 
-🚗 SmartFleet AI
+✔ Power BI
 
-📊 Dashboard Executivo
+✔ Desenvolvimento Web
 
-📈 Dashboard Comercial
-
-📦 Sistema de Controle de Estoque
-
-📋 Sistema de Ordem de Serviço
-
-🤖 Automação de Relatórios
-
-👥 Sistema de Gestão de Clientes
+✔ Inteligência Artificial
 
 ---
 
-# 📈 GitHub Stats
+## 🌎 Onde me encontrar
 
-<p align="center">
+<div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=digosb&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://www.linkedin.com/in/rodrigo-barbosa-341a5a111/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digosb&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="rodrigosb1190@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-</p>
+<a href="https://github.com/digosb">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
----
-
-# 🔥 Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=digosb&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 📚 Atualmente estudando
-
-- Python Avançado
-- Power BI
-- SQL
-- FastAPI
-- PostgreSQL
-- Docker
-- Inteligência Artificial
-- Arquitetura de Software
-
----
-
-# 🌎 Meu objetivo
-
-Quero construir uma carreira desenvolvendo soluções inteligentes para empresas através de software, análise de dados e automação.
-
-Estou construindo um portfólio focado em:
-
-📊 Power BI
-
-🐍 Python
-
-⚡ Automação
-
-💻 Desenvolvimento de Software
-
-🤖 Inteligência Artificial
-
----
-## 🌐 Conecte-se comigo
-
-<p align="left">
-  <a href="SEU_LINK_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-
----
-
-<p align="center">
+<h3 align="center">
 
 ⭐ Obrigado por visitar meu perfil!
 
-Se gostou dos meus projetos, deixe uma ⭐ nos repositórios.
+</h3>
+
+<p align="center">
+
+"Transformando ideias em soluções através da tecnologia."
 
 </p>
